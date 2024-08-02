@@ -1,2 +1,1 @@
-# manager-testflight-
-Manager Application 
+# Manager app for store
