@@ -23,7 +23,7 @@ class ForgotTextButton extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     return TextButton(
       style: ButtonStyle(
-        overlayColor: MaterialStateColor.resolveWith(
+        overlayColor: WidgetStateColor.resolveWith(
               (states) => Style.greyColor,
         ),
       ),

@@ -53,7 +53,7 @@ dependencies:
   shared_preferences: ^2.2.2
   easy_date_timeline: ^1.0.5
   permission_handler: ^11.1.0
-  flutter_colorpicker: ^1.0.3
+  flutter_colorpicker: ^1.1.0
   google_maps_flutter: ^2.5.3
   top_snackbar_flutter: ^3.1.0
   proste_indexed_stack: ^0.2.4
