@@ -33,7 +33,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "yelpos.seller"
+    namespace "com.ericfranzee.shop"
     compileSdkVersion 34
     ndkVersion flutter.ndkVersion
 
@@ -51,7 +51,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "yelpos.seller"
+        applicationId "com.ericfranzee.shop"
         minSdkVersion 21
         multiDexEnabled true
         targetSdkVersion flutter.targetSdkVersion

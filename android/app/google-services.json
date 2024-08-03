@@ -193,7 +193,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:592543327679:android:441b280e6bf279856f6d0a",
         "android_client_info": {
-          "package_name": "yelpos.seller"
+          "package_name": "com.ericfranzee.shop"
         }
       },
       "oauth_client": [
@@ -201,7 +201,7 @@
           "client_id": "592543327679-51ahcr5bbat7bl6bc5of06lgsmeoon9s.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "yelpos.seller",
+            "package_name": "com.ericfranzee.shop",
             "certificate_hash": "a1f49ee6a310fae9c7d3deb5731a6ee6ff826efa"
           }
         },
@@ -209,7 +209,7 @@
           "client_id": "592543327679-jblfv4d5ahum8so4oiifj02e794kfcnr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "yelpos.seller",
+            "package_name": "com.ericfranzee.shop",
             "certificate_hash": "f78eb0789102f5e714676be3a87e47c0b7835131"
           }
         },
