@@ -22,12 +22,12 @@ class AppConstants {
 
   /// api urls
 
-  static const String baseUrl = 'https://api.demand24.org/';
-  static const String webUrl = 'https://demand24.org';
+  static const String baseUrl = 'https://code.ericfranzee.com/';
+  static const String webUrl = 'https://ceazed.ericfranzee.com';
   static const String imageBaseUrl = '$baseUrl/storage/images';
-  static const String adminPageUrl = 'https://admin.demand24.org';
+  static const String adminPageUrl = 'https://store.ericfranzee.com';
   static const String googleApiKey = 'AIzaSyAV3BYPU2xncEElk74aKVJtSRTf4oPY7eE';
-  static const String initialCountryCode = '+1';
+  static const String initialCountryCode = '+234';
 
   /// location
   static const double demoLatitude = 41.304223;
